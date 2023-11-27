@@ -74,3 +74,7 @@ li{
     list-style: none;
 }
 
+.completed{
+    box-shadow: lightseagreen 1px, 1px, 4px;
+    border: goldenrod solid 2px;
+}
