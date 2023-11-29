@@ -9,6 +9,8 @@ export default function Header(){
                         alt="MDB Logo"
                         loading="lazy" />
                 </a>
+
+                <a href="/">Home</a>
             </div>
         </nav>
     )
